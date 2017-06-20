@@ -60,7 +60,7 @@ a:hover, a:active {
 }
 /*Styling the form button*/
 .form button {
-    font-family: "Roboto", sans-serif;
+    font-family:normal;
     text-transform: uppercase;
     outline: 0;
     background: #3b38c4;
