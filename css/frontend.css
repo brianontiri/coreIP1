@@ -1,6 +1,6 @@
 /*Header Styling*/
 h1 {
-    color: #000;
+    color:black;
     text-align: center;
     font-size: 50px;
 }
@@ -66,10 +66,10 @@ a:hover, a:active {
     cursor: pointer;
 }
 
-.form button:hover,
+
 .form button:active,
 .form button:focus {
-    background: red;
+    background:white;
 }
 .form .message {
     margin: 15px 0 0;
@@ -91,7 +91,7 @@ a:hover, a:active {
 #results{
     color:white;
     font-family: normal;
-    font-size: 40px;
+    font-size: 10px;
     text-align: center;
 }
 
