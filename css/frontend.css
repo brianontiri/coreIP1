@@ -77,7 +77,7 @@ a:hover, a:active {
 .form button:hover,
 .form button:active,
 .form button:focus {
-    background: #3b38c4;
+    background: red;
 }
 .form .message {
     margin: 15px 0 0;
