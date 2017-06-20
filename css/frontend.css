@@ -10,13 +10,21 @@ img{
  width: 150px;
 }
 
+.title{
+    font-size: 20px;
+    color: ‎black;
+    text-align: center;
+}
 
-
-a:hover, a:active {
-    background-color: #3b38c4;
+.container-fluid{
+  height:5000px;
+  width: 700px;
+  background-color:black;
+  padding-top: 0px;
+}
 
 /*Login page size*/
-}.login-page {
+.login-page {
     width: 360px;
     padding: 8% 0 0;
     margin: auto;
@@ -91,7 +99,7 @@ a:hover, a:active {
 #results{
     color:white;
     font-family: normal;
-    font-size: 10px;
+    font-size: 20px;
     text-align: center;
 }
 
