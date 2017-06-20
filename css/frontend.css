@@ -63,11 +63,11 @@ a:hover, a:active {
     font-family:normal;
     text-transform: uppercase;
     outline: 0;
-    background: #3b38c4;
+    background:black;
     width: 100%;
     border: 0;
     padding: 15px;
-    color: #FFFFFF;
+    color: red;
     font-size: 14px;
     -webkit-transition: all 0.3 ease;
     transition: all 0.3 ease;
