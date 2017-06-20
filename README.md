@@ -7,17 +7,12 @@
 
 
 
-## PROJECT SETUP
-
-
-
-## LINK TO SITE
-[Heres The Link To My Site](https://gathuakiragu.github.io/Github-User-Lookup)
 
 
 
 
-## AUTHOR: 
-**Brian Gathua**
-### Email: 
-**gathuakiragu@gmail.com**
+
+## AUTHOR:
+**Brian Ontiri**
+### Email:
+**foughtsentertainment@gmail.com**
